@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RykanCollins
-- 👀 I’m interested in coding, sql, java, development, c#
+- 👀 I’m interested in sql, java, development, c#
 - 🌱 I’m currently learning java and c#
 - 💞️ I’m looking to collaborate on projects that will help build my portfolio 
      and continue to strenghten my skills.
